@@ -1,22 +1,22 @@
 [
     {
-        "text": "rain in seattle,\ndon't forget an umbrella,\nor it will be gloom",
+        "text": "llueve en seattle,\nno olvides el paraguas,\no todo será sombrió",
         "image": "puddle_jumper_octodex.jpg"
     },
     {
-        "text": "my tunes on repeat,\nit's time for me to dj,\nhave you heard this one?",
+        "text": "Mis canciones en bucle,\nes hora de que yo sea el DJ.,\n¿Has oído esta?",
         "image": "vinyltocat.jpeg"
     },
     {
-        "text": "snow is still falling,\nis it time for apres yet?\nlet's do one more run",
+        "text": "La nieve sigue cayendo,\n¿Ya es hora de apres?\nhagamos una carrera más",
         "image": "snowtocat_final.jpg"
     },
     {
-        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
+        "text": "beep boop bop beep boop,\nSoy el robot octocat,\ny creo que hay un error",
         "image": "Robotocat.jpeg"
     },
     {
-        "text": "same plot as before,\nso why is it still awesome?\ni think it's the hat",
+        "text": "La misma trama de antes,\n¿entonces por qué sigue siendo genial?\ncreo que es por el sombrero",
         "image": "linktocat.jpg"
     }
 ]
